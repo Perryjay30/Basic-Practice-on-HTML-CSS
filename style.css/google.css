@@ -1,0 +1,65 @@
+.google {
+    text-align: center;
+    font-family: 'Roboto';
+    margin-top: 80px;
+}
+
+.G, .g {
+    color: rgb(0, 87, 185);;
+}
+
+.oo {
+    color: rgb(177, 45, 45);
+}
+
+.o {
+    color: rgb(212, 167, 18);
+}
+
+.l {
+    color: rgb(2, 121, 18);
+}
+
+.e {
+    color: rgb(177, 45, 45); 
+}
+
+
+.input {
+    display: block;
+    width: 345px;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    padding-left: 10px;
+    padding-right: 10px; 
+    border: none;
+    border-radius: 18px;
+    box-shadow: 2px 2px 4px rgb(184, 178, 178);
+    font-size: small;
+    margin-bottom: 30px;
+}
+
+.input-button {
+    margin: auto;
+    margin-left: 190px;
+}
+
+.search {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+}
+
+.lucky {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: 5px;
+    border-radius: 2px;
+}
